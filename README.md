@@ -7,19 +7,19 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 📂 Repository Structure
 
 
-/CCNA-Labs
-├── Basic_Configurations    # Basic switch/router settings
-├── VLAN                    # VLAN configurations
-├── Routing_Protocols       # OSPF, EIGRP, RIP
-├── ACL                     # Access Control Lists
-├── NAT                     # Network Address Translation
-├── Documentation
-│   ├── README.md
-│   ├── Lab_Guides
-├── LICENSE
-├── .gitignore
-└── README.md
+📂 CCNA-Labs/
 
+├── 📁 Basic_Configurations       
+├── 📁 VLAN                       
+├── 📁 Routing_Protocols          
+├── 📁 ACL                        
+├── 📁 NAT                       
+├── 📂 Documentation              
+│       ├── 📄 README.md              
+│       ├── 📁 Lab_Guides             
+├── 📜 LICENSE                    
+├── 📄 .gitignore                 
+└── 📄 README.md                  
 
 🚀 Getting Started
 To clone the project to your local machine:
