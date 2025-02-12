@@ -7,16 +7,11 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 📂 Repository Structure
 
 
-📂 CCNA-Labs/
-
-├── 📁 Basic_Configurations       
-├── 📁 VLAN                       
-├── 📁 Routing_Protocols          
-├── 📁 ACL                        
-├── 📁 NAT                       
-├── 📂 Documentation              
-│       ├── 📄 README.md              
-│       ├── 📁 Lab_Guides             
+📂 CCNA-Labs/     
+├── 📁 VLAN                                
+├── 📁 EtherChannel                       
+├── 📁 DHCP                       
+├            
 ├── 📜 LICENSE                    
 ├── 📄 .gitignore                 
 └── 📄 README.md                  
