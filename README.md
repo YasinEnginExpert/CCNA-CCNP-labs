@@ -7,16 +7,17 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 📂 Repository Structure
 
 
-📂 CCNA-Labs/     
-├── 📁 VLAN                                
-├── 📁 EtherChannel                       
-├── 📁 DHCP 
-├── 📁 Telnet       
-├── 📁 SSH                           
-├            
-├── 📜 LICENSE                    
-├── 📄 .gitignore                 
-└── 📄 README.md                  
+- 📂 CCNA-Labs/
+  - 📁 VLAN
+  - 📁 EtherChannel
+  - 📁 DHCP
+  - 📁 Telnet
+  - 📁 SSH
+- 📜 LICENSE
+- 📄 .gitignore
+- 📄 README.md
+
+
 
 🚀 Getting Started
 To clone the project to your local machine:
