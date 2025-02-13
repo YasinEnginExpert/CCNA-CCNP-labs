@@ -10,7 +10,9 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 📂 CCNA-Labs/     
 ├── 📁 VLAN                                
 ├── 📁 EtherChannel                       
-├── 📁 DHCP                       
+├── 📁 DHCP 
+├── 📁 Telnet       
+├── 📁 SSH                           
 ├            
 ├── 📜 LICENSE                    
 ├── 📄 .gitignore                 
