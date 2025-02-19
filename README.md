@@ -14,6 +14,7 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
   - 📁 Telnet
   - 📁 SSH
   - 📁 IPv4_addresses_and_static_routing
+  - 📁 IPv6_addresses_and_static_routing
   - 📁 OSPF
 
 - 📜 LICENSE
