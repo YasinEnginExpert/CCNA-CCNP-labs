@@ -165,9 +165,9 @@
                 "drawing_id": "d8437143-629b-442d-9067-05915a4fcec3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"173\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN_B == VPN_B</text></svg>",
-                "x": -249,
-                "y": -307,
+                "svg": "<svg width=\"184\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">*VLAN_B == VPN_B</text></svg>",
+                "x": 509,
+                "y": -43,
                 "z": 2
             },
             {
@@ -177,6 +177,15 @@
                 "svg": "<svg width=\"101\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">MPLS_VPN</text></svg>",
                 "x": -219,
                 "y": 61,
+                "z": 2
+            },
+            {
+                "drawing_id": "c3fb2502-fc49-4925-b83b-715b026acf26",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"119\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Config-notes</text></svg>",
+                "x": 543,
+                "y": -88,
                 "z": 2
             }
         ],
