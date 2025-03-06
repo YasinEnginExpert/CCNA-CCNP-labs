@@ -18,6 +18,7 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
   - 📁 Cryptography
   - 📁 LAN,WAN,CLOUD Architecture
   - 📁 STP,RSTP,Etherchannel
+  - 📁 Network Automation
   - 📁 Security
 
 
