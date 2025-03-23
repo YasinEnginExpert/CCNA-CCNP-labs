@@ -5,24 +5,25 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 
 📂 Repository Structure
 - 📂 CCNA-Labs/
-  - 📁 VLAN
+  - 📁 VLANs and Inter-VLAN Routing
   - 📁 EtherChannel
   - 📁 DHCP
-  - 📁 Telnet
-  - 📁 SSH
+  - 📁 Cisco Device Security
   - 📁 IPv4_addresses_and_static_routing
   - 📁 IPv6_addresses_and_static_routing
-  - 📁 Wireless LANs
+  - 📁 Wireless Fundamentals
   - 📁 ACL
   - 📁 OSPF
   - 📁 IP Services
   - 📁 Network Automation
   - 📁 Cryptography
-  - 📁 LAN,WAN,CLOUD Architecture
-  - 📁 STP,RSTP,Etherchannel
+  - 📁 LAN and WAN Architecture
+  - 📁 STP,RSTP
   - 📁 Network Automation
   - 📁 AI and Machine learning
-
+  - 📁 Network Device Management
+  - 📁 Switch Security
+  - 📁 QoS
   - 📁 Security
 
 
