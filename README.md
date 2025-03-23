@@ -17,6 +17,7 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
   - 📁 IP Services
   - 📁 Network Automation
   - 📁 Security Fundamentals
+  - 📁 Diagnose Interface Status, Errors, and Cabling Issues on a Cisco Switch
   - 📁 LAN and WAN Architecture
   - 📁 STP,RSTP
   - 📁 Network Automation
