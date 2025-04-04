@@ -1,7 +1,7 @@
 CCNA Networking Labs 🚀
 This repository contains Cisco CCNA networking labs, designed for learning and practicing essential networking concepts using Cisco Packet Tracer.
-![Uploading Ekran görüntüsü 2025-04-04 155105.png…]()
 
+![Ekran görüntüsü 2025-04-04 155105](https://github.com/user-attachments/assets/82ba314f-4cbf-4008-97ea-b934745ad4f1)
 
 📂 Repository Structure
 - 📂 CCNA-Labs/
