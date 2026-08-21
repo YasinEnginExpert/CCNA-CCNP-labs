@@ -1,3 +1,5 @@
+
+
 CCNA Networking Labs 🚀
 This repository contains Cisco CCNA networking labs, designed for learning and practicing essential networking concepts using Cisco Packet Tracer.
 
@@ -37,7 +39,7 @@ This repository contains Cisco CCNA networking labs, designed for learning and p
 🚀 Getting Started
 To clone the project to your local machine:
 
-git clone https://github.com/your-username/CCNA-Labs.git
+git clone https://github.com/YasinEnginn/CCNA_Notes_and_Labs.git
 For more details, check the Documentation folder.
 
 📌 Contributing
